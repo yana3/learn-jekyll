@@ -1,8 +1,4 @@
-﻿---
-layout: page
-title: About
----
-
+﻿
 ## O nás
 
 ### Cieľová skupina
