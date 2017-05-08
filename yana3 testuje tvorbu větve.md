@@ -1,1 +1,1 @@
-Test spolupráce.
+﻿Test spolupráce. Neviem prečo ale nefungujú Github Pages
