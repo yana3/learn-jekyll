@@ -1,6 +1,6 @@
 ---
 
-Testuju :)
+Testuju
 
 ---
 
