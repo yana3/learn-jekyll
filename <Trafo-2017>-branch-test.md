@@ -1,1 +1,0 @@
-Zkouším to vytvořit :D
