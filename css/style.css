@@ -13,11 +13,10 @@
 
 .content {
 	float: right;
-	width: 80%;
+	width: 85%;
 	border-left: solid;
 	border-top: 1px solid rgb(60,60,60);
 	border-bottom: 1px solid rgb(60,60,60);
-	padding-top: 70px;
 	padding-left: 50px;
 	padding-right: 50px;
 	background-color: white;
