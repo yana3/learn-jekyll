@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 
-# Vytajte na našom webe!
+# Vitajte na našom webe!
 
-Tento web vznikol, ako experimentálny projekt, za účelom vzdelávania sa. Téma webu je zameraná na Českých a Slovenských fanúšikov Kpopu. Keďže na vytváraní spolupracujeme dve češky a slovenka, pridávané posty nebudú v jednotnom jazyku. Dúfame, že informácie tu publikované budú pre vás užitočné.
+Tento web vznikol, ako experimentálny projekt, za účelom vzdelávania sa. Téma webu je zameraná na českých a slovenských fanúšikov Kpopu. Keďže na vytváraní spolupracujeme dve Češky a Slovenka, pridávané posty nebudú v jednotnom jazyku. Dúfame, že informácie tu publikované budú pre vás užitočné.
 
 ![Ahojte](/images/j-hope-hallo.gif)
 
