@@ -28,7 +28,8 @@ nav {
 	position: fixed;
 	border: solid;
 	background-color: white;
-	padding-left: 50px;
+	margin-right: 100px;
+	margin-top: 50px;
 }
 
 nav ul {
