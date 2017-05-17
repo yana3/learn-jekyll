@@ -24,14 +24,11 @@ nav {
 	float: left;
 	width: 15%;
 	position: fixed;
-	border: solid;
-	background-color: white;
 	}
 
 nav ul {
 	list-style-type: none;
 	padding: 0;
-	margin-top: 50px;
 }
 }
 
