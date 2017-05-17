@@ -2,6 +2,10 @@
 	margin: 50px auto;
 	max-width: 800px;
 	padding: 20px;
+	border-top: 1px solid rgb(60,60,60);
+	border-bottom: 1px solid rgb(60,60,60);
+	background-color: white;
+
 }
 
 .header {
@@ -42,10 +46,7 @@ html {
 a {
 	color: #3972d2;
 	font-family: Averia Serif;
-	border-top: 1px solid rgb(60,60,60);
-	border-bottom: 1px solid rgb(60,60,60);
-	padding-left: 30px;
-	background-color: white;
+	font-weight: bold;
 	}
 
 h1, h2, h3, h4 {
