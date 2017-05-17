@@ -16,7 +16,7 @@
 	border-left: solid;
 	border-top: 1px solid rgb(60,60,60);
 	border-bottom: 1px solid rgb(60,60,60);
-	padding-top: 50px;
+	margin-top: 50px;
 	padding-left: 50px;
 	padding-right: 50px;
 	background-color: white;
@@ -34,7 +34,7 @@ nav ul {
 }
 
 html {
-	font-size: 100%;
+	font-size: 120%;
 	 background: url(https://cdn.totalcomputersusa.com/managed/uploads/sites/23/2016/09/kpop.jpg) repeat center center fixed; 
      background-size: cover;
 }
