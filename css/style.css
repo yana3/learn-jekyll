@@ -28,13 +28,14 @@ nav {
 	position: fixed;
 	border: solid;
 	background-color: white;
-	margin-right: 100px;
-	margin-top: 50px;
-}
+	}
 
 nav ul {
 	list-style-type: none;
 	padding: 0;
+	margin-right: 100px;
+	margin-top: 50px;
+}
 }
 
 html {
