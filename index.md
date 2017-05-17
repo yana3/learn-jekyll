@@ -9,7 +9,7 @@ Tento web vznikol, ako experimentálny projekt, za účelom vzdelávania sa. Té
 
 ## Videjko na privítanie 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/jp2emtZWc_k" frameborder="0" allowfullscreen></iframe>"
+<iframe width="570" height="320" src="https://www.youtube.com/embed/jp2emtZWc_k" frameborder="0" allowfullscreen></iframe>"
 
 ## Príspevky
 
