@@ -3,32 +3,15 @@ layout: page
 title: Home
 ---
 
-# Hello World! (It works!)
+# Vytajte na našom webe!
 
-This are the contents of the Jekyll front page.
+Tento web vznikol, ako experimentálny projekt, za účelom vzdelávania sa. Téma webu je zameraná na Českých a Slovenských fanúšikov Kpopu. Keďže na vytváraní spolupracujeme dve češky a slovenka, pridávané posty nebudú v jednotnom jazyku. Dúfame, že informácie tu publikované budú pre vás užitočné.
 
-## Something to read: Sonnet LXVI.
+## Videjko na privítanie 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+<iframe width="854" height="480" src="https://www.youtube.com/embed/jp2emtZWc_k" frameborder="0" allowfullscreen></iframe>"
 
-## Posts
-
-See the posts:
+## Príspevky
 
 <ul>
   {% for post in site.posts %}
@@ -38,9 +21,8 @@ See the posts:
   {% endfor %}
 </ul>
 
-## Pages
+## Navigácia
 
-And even normal pages:
 
 <ul>
   {% for page in site.pages %}
