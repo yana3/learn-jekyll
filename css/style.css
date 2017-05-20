@@ -58,8 +58,9 @@ p {
 }
 
 img[alt="Ahojte"] {
-	max-width: 250px;
 	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
