@@ -57,4 +57,9 @@ p {
 	color: black;
 }
 
+img[alt="Ahojte"] {
+	max-width: 250px;
+	display: block;
+}
+
 
