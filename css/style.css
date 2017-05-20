@@ -57,3 +57,7 @@ p {
 	color: black;
 }
 
+img[alt="logo"] {
+  max-width: 250px; 
+  display: block;
+}
