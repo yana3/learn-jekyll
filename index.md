@@ -11,7 +11,7 @@ Tento web vznikol, ako experimentálny projekt, za účelom vzdelávania sa. Té
 
 ## Videjko na privítanie 
 
-<iframe width="570" height="320" src="https://www.youtube.com/embed/jp2emtZWc_k" frameborder="0" allowfullscreen></iframe>
+<iframe width="570" height="320" src="https://www.youtube.com/embed/TLNGQSXGiNk" frameborder="0" allowfullscreen></iframe>
 
 ## Príspevky
 
@@ -23,13 +23,4 @@ Tento web vznikol, ako experimentálny projekt, za účelom vzdelávania sa. Té
   {% endfor %}
 </ul>
 
-## Navigácia
 
-
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
