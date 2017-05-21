@@ -2,8 +2,12 @@
   - beatles.yml
   
 - _posts:
-  - 2017-03-13-welcome-to-jekyll.md
-  - 2017-03-17-another-post.md
+  - 2017-04-17-kpop-post2
+  - 2017-04-03-kpop-post1
+  - 2017-05-20-post3
+  - 2017-05-21-post6
+  - 2017-05-20-post7
+  - 2017-05-20-post8
   
 - _includes:
   - menu.md
