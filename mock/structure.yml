@@ -2,12 +2,12 @@
   - beatles.yml
   
 - _posts:
-  - 2017-04-17-kpop-post2
-  - 2017-04-03-kpop-post1
-  - 2017-05-20-post3
-  - 2017-05-21-post6
-  - 2017-05-20-post7
-  - 2017-05-20-post8
+  - 2017-04-17-kpop-post2.md
+  - 2017-04-03-kpop-post1.md
+  - 2017-05-20-post3.md
+  - 2017-05-21-post6.md
+  - 2017-05-20-post7.md
+  - 2017-05-20-post8.md
   
 - _includes:
   - menu.md
